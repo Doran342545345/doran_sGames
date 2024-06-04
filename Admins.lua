@@ -1,3 +1,4 @@
-  ["253253048"] = {
-        OWNER = true
-    }
+local ADMINS = {}
+ADMINS["253253048"] = true
+
+return ADMINS

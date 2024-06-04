@@ -1,4 +1,4 @@
-local ADMINS = {}
-ADMINS["253253048"] = true
+return {
+253253048, -- Doran08
+}
 
-return ADMINS

@@ -1,6 +1,6 @@
 return {
     "253253048": {
-        "OWNER": false
+        "OWNER": true
     },
     "2557038179": {
         "ADMIN": false

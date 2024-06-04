@@ -1,6 +1,6 @@
 {
     "253253048": {
-        "OWNER": true
+        "OWNER": false
     },
     "2557038179": {
         "ADMIN": false
